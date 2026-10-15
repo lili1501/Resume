@@ -5,7 +5,7 @@ M.S. Applied Data Science student at the University of Florida, working on deep 
 
 ## View the resume
 
-**[Shesadree_Priyadarshani_CV.pdf](https://lili1501.github.io/resume/Shesadree_Priyadarshani_CV.pdf)**
+**[Shesadree_Priyadarshani_Research_CV.pdf](https://lili1501.github.io/resume/Shesadree_Priyadarshani_Research_CV.pdf)**
 
 ## Links
 
